@@ -1,0 +1,4 @@
+1. / : it is used for continuation of lines - ContinuotionSymbol.py
+2. ; : It is used to write the mulitple statements in one line -  ContinuotionSymbol.py
+3. find() : It is used find a string , if it is found then it will return index of partiular string entered otherwise it will return -1
+4. split() : It is a string function and returns the list

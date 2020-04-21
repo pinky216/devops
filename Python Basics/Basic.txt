@@ -1,0 +1,2 @@
+test.support.encore.rackspace.com,443,ESS Test,hari2372,vams3041,encore,encore@rackspace.com,core,encore
+testing.support.encore.rackspace.com,443,ESS Test,hari2372,vams3041,encore,encore@rackspace.com,core,encore
